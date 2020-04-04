@@ -23,7 +23,7 @@ hbs.registerPartials(partialPath);
 app.use(express.static(publicAssetsPath));
 
 app.get('', (req, res) => {
-  res.render('index', { title: 'Weather App', author: 'Kater Akeren' });
+  res.render('index', { title: 'Weather', author: 'Kater Akeren' });
 });
 app.get('/about', (req, res) => {
   res.render('about', { title: 'About Me', author: 'Kater Akeren' });
