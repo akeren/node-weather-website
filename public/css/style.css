@@ -23,6 +23,7 @@ header {
 }
 
 h1 {
+  color: #01575c;
   font-size: 64px;
   margin-bottom: 16px;
 }
@@ -33,7 +34,7 @@ h1 {
   text-decoration: none;
 }
 .me-img {
-  width: 250px;
+  width: 280px;
 }
 
 input {
@@ -44,8 +45,8 @@ input {
 button {
   color: #ffffff;
   cursor: pointer;
-  border: 1px solid #888888;
-  background: #888888;
+  border: 1px solid #01575c;
+  background: #01575c;
   padding: 8px;
 }
 
