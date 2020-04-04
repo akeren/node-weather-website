@@ -28,10 +28,13 @@ h1 {
   margin-bottom: 16px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .nav-links a {
   color: #888888;
   margin-right: 16px;
-  text-decoration: none;
 }
 .me-img {
   width: 280px;
@@ -48,6 +51,11 @@ button {
   border: 1px solid #01575c;
   background: #01575c;
   padding: 8px;
+}
+
+li {
+  list-style: none;
+  padding: 5px;
 }
 
 footer {
