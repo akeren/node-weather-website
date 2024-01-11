@@ -16,7 +16,7 @@
   "author": "Kater Akeren",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.6.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.3",
     "hbs": "^4.1.0"
